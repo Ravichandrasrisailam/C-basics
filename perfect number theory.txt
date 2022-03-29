@@ -1,0 +1,7 @@
+programe to find given number is perfect number or not?
+
+PERFECT NUMBER: a number is said  to be perfect if some f all the factors of gven number except that is equals to orginal number is called perfect number.
+
+example: 6=> 1+2+3 => 6 (right)
+            12 =>1+2+4+6 =>16  X
+            28 =>1+2+4+7+14 =>28(right)
